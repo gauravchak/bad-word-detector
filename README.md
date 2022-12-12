@@ -1,2 +1,3 @@
 # bad-word-detector
-Something that given a list of prohibited words, filters out text that contains them
+
+Create a system to filter out "bad" words including "leetspeak" substitutions.
